@@ -1,9 +1,9 @@
 # Web Creators Day 4 Warmup Activity
 
-Using the starter files in the "warmupActivity" folder:
-index.html
-services.html
-contact.html
+Using the starter files in the "warmupActivity" folder:<br>
+[index.html](index.html)<br>
+[services.html](services.html)<br>
+[contact.html](contact.html)<br>
 
 Do the following:
 
