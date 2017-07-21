@@ -1,8 +1,6 @@
-cis151 web site development
+# Web Creators Day 4 Warmup Activity
 
-Activity ch5- images
-
-using the starter files in the "Trillium5" folder:
+Using the starter files in the "warmupActivity" folder:
 index.html
 services.html
 contact.html
