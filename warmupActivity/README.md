@@ -11,7 +11,7 @@ Do the following:
 
 2. remove the embedded styles from index.html and place them in the stylesheet, add the link to all html files in the site.
 
-3. remove all <small><i> tags from the footer of all html files and add css style rules to do that styling.
+3. remove all `<small><i>` tags from the footer of all html files and add css style rules to do that styling.
 
 4. apply the styling plan from the index page to the other two pages.
 
