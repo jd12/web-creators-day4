@@ -7,7 +7,7 @@ contact.html
 
 Do the following:
 
-1. create a "trilliumStylesheet.css" file in a folder called "css". Place all image files in a folder called "images".
+1. create a "trilliumStylesheet.css" file in a folder called "css". Upload all image files in a folder called "images".
 
 2. remove the embedded styles from index.html and place them in the stylesheet, add the link to all html files in the site.
 
