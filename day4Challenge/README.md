@@ -9,7 +9,7 @@
 
 4. Modify the links to the stylesheet in all html files so that they can locate the javajam.css file.
 
-5. Remove the <i><small> tags from the footer in all html files.
+5. Remove the `<i><small>` tags from the footer in all html files.
 
 6. Add style rules to the footer style definition in the stylesheet to produce the same effect as the 
    tags removed in step 5.
