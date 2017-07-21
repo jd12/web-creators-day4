@@ -18,7 +18,7 @@ Do the following:
 5. replace the H1 banner text with the trilliumbanner.jpg image. 
 
 6. Add a [background image](https://www.w3schools.com/cssref/pr_background-image.asp), trilliumbg.gif, to the H2 elements vis the style definition in the stylesheet.
-   You will need set it to not repeat. Add left padding of 30px.
+   You will need set it to not repeat. Add [left padding](https://www.w3schools.com/css/css_padding.asp) of 30px.
 
 7. replace the navigation links with the images provided.
 
