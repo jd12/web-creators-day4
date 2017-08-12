@@ -21,18 +21,18 @@ to the html pages.
 
 ## index.html 
 
-![Home Page](javaJamHome.png)
+![Home Page](images/javaJamHome.png)
 
 ## menu.html 
 
-![Menu Page](javaJamMenu.png)
+![Menu Page](images/javaJamMenu.png)
 
 ## music.html
 
-![Music Page](javaJamMusic.png)
+![Music Page](images/javaJamMusic.png)
 
 ## jobs.html
 
-![Jobs Page](javaJamJobs.png)
+![Jobs Page](images/javaJamJobs.png)
 
 

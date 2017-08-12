@@ -2,7 +2,7 @@ Lighthouse Example-
 working with a page container
 
 
-1. Create a new Thimble Project named LightHouse. Copy in the [template.html](https://github.com/jd12/web-creators-day2/blob/master/day2Challenge/template.html) code to your index.html 
+1. Create a new Thimble Project named LightHouse. Copy in all the files from the LighthouseStarter folder into your new Thimble project. 
 
 2. create a folder "css", create a file: "lighthouse.css" inside this folder.
 
