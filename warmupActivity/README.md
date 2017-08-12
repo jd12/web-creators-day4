@@ -42,3 +42,4 @@ working with a page container
     no blur radius, and color #cccccc.
 
 13. Compare with the image lighthouseResult.png.
+![Lighthouse Final](LighthouseStarter/lighthouseResult.png)
