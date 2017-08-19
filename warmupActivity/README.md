@@ -18,7 +18,7 @@ working with a page container
 
 6. Adjust the h1 style by adding left [padding](https://www.w3schools.com/css/css_padding.asp) of 150px and padding to the top of 30px.
 
-7. Add a [border](https://www.w3schools.com/css/css_border.asp) of 2px solid; and a border radius of 15px to the h1 style definition.
+7. Now let's give your header a rounded border. Add a [border](https://www.w3schools.com/css/css_border.asp) of 2px solid; and a [border-radius](https://www.w3schools.com/cssref/css3_pr_border-radius.asp) of 15px to the h1 style definition.
 
 8. Add the background image file "background.jpg" to the body style definition.
 
