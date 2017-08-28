@@ -4,6 +4,8 @@ working with a page container
 
 1. Create a new Thimble Project named LightHouse. Copy in all the files from the [LighthouseStarter](LighthouseStarter) folder into your new Thimble project. [Download](https://github.com/jd12/web-creators-day4/archive/master.zip) the repository. Unzip the file (usually can be achieved by double clicking on the .zip file). Go into the folder -> warmupActivity -> LighthouseStarter and then drag and drop the all each file (including the `index.html`) into your Thimble project. You should have an `index.html` like this:
 
+![Lighthouse Starter](LighthouseStarter/lighthouseStarter.png)
+
 2. create a folder "css", create a file: "lighthouse.css" inside this folder.
 
 3. transfer all embedded styles from index.html to the stylesheet file and
