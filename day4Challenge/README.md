@@ -12,7 +12,7 @@
 5. Remove the `<i><small>` tags from the footer in all html files.
 
 6. Add style rules to the footer style definition in the stylesheet to produce the same effect as the 
-tags removed in step 5.
+tags removed in step 5. To achieve the same effect using CSS you'll need [font-style](https://www.w3schools.com/cssref/pr_font_font-style.asp) and [font-size](https://www.w3schools.com/cssref/pr_font_font-size.asp)
 
 7. Now make the images look like the pictures below. Remember, all references to image files must have the 
 correct path:  path/filename. All image files are located by the path:  images/filename, relative
